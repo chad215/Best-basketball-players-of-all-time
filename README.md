@@ -23,7 +23,7 @@ a long time.
 # History:
 The game of basketball as it is known today was created by Dr. James Naismith in December 1891 in Springfield, Massachusetts, to condition young athletes during cold months. It consisted of peach baskets and a soccer style ball. ... After a while, the bottoms of the fruit baskets were removed. Basketball was here for a very long time and everyone loved the sport
 
-#stats
+# stats
 1. [Michael Jordan ](https://stats.nba.com/player/893/career/?PerMode=Totals)
 2. [Magic Johnson](https://stats.nba.com/player/77142/career/)
 3. [Larry Bird](https://stats.nba.com/player/1449/career/)
