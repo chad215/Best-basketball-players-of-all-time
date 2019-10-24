@@ -28,3 +28,14 @@ The game of basketball as it is known today was created by Dr. James Naismith in
 1. [Michael Jordan ](https://stats.nba.com/player/893/career/?PerMode=Totals)
 2. [Magic Johnson](https://stats.nba.com/player/77142/career/)
 3. [Larry Bird](https://stats.nba.com/player/1449/career/)
+
+# recent players
+Top 5
+1. Lebron James
+2. russell westbrook
+3. James Harden
+4. kyrie irving
+5. Stephen Curry
+
+# pictures of recent players
+[Image of Lebron James](https://images.complex.com/complex/images/c_limit,dpr_auto,q_90,w_720/fl_lossy,pg_1/rbieny5x7obagiov6a7l/lebron-james-headband)
