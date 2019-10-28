@@ -39,3 +39,5 @@ Top 5
 
 # pictures of recent players
 [Image of Lebron James](https://images.complex.com/complex/images/c_limit,dpr_auto,q_90,w_720/fl_lossy,pg_1/rbieny5x7obagiov6a7l/lebron-james-headband)
+[Image of russell westbrook](https://www.nba.com/rockets/gallery/photos-westbrook-introduced)
+[Image of James Harden](https://en.wikipedia.org/wiki/James_Harden#/media/File:James_Harden_(30735342912).jpg)
