@@ -1,7 +1,8 @@
 # Best-basketball-players-of-all-time
 # About
 These are the best basketball players of all times that have played in the NBA
-a long time.
+a long time. Some overcame many challenges and others also did good and worked
+hard.
 
 # List Of Players
 1. Michael Jordan
