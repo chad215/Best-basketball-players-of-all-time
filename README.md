@@ -47,3 +47,5 @@ Top 5
 What I would do is to show the kids videos of how good theses players are and I would also build
 different Thing to remember the players by such as building monuments and when they go online they can
 also learn the players moves and they can even learn there shooting pattern.
+I would want to make a sleeve for basketball players that connect to your phone to tell you your shooting
+accuracy and I, also would want the sleeve to see how your timing is also for each shot. That's what I would do.
